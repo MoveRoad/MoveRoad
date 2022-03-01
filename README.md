@@ -1,12 +1,17 @@
-<div align=center><h1>👋 안녕하세요. FE 개발자 이동길 입니다. </h1></div>
-
-
-<div align=center>[![MoveRoad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoveRoad)](https://github.com/anuraghazra/github-readme-stats)</div>
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoveRoad&count_bg=%2379C83D&title_bg=%2359D98E&icon=linux.svg&icon_color=%23000000&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
+  <p>👋 안녕하세요. FE 개발자 이동길 입니다. </p>
+
+
+  <div>{[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)}</div>
+
+  <div>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoveRoad&count_bg=%2379C83D&title_bg=%2359D98E&icon=linux.svg&icon_color=%23000000&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+
+
+
+  <p> 💬 Ask me about oio3215@naver.com </p>
+  
 </div>
 
-<div align=center><h2> 💬 Ask me about ... </h2></div>
 <!--
 
 
