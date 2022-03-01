@@ -6,7 +6,7 @@
   
   <a href="https://moveroad.tistory.com/">
     <img
-    src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://moveroad.tistory.com/"
+    src="http://img.shields.io/badge/-Tistory%20Blog-655ced?style=flat&logo=tistory&link=https://moveroad.tistory.com/"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a> 
  
