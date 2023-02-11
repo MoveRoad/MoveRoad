@@ -1,14 +1,14 @@
 <div align=center>
   
-  <h1>😄 안녕하세요. FE 개발자 이동길 입니다.</h1>
+  <h1>😄 Hi, I'm Junior Frontend Developer.</h1>
   
   [![MoveRoad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoveRoad)](https://github.com/MoveRoad/github-readme-stats)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoveRoad&count_bg=%2379C83D&title_bg=%2359D98E&icon=linux.svg&icon_color=%23000000&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  <a href="https://moveroad.tistory.com/">
+  <a href="https://velog.io/@moveroad">
     <img
-    src="http://img.shields.io/badge/-Tistory%20Blog-655ced?style=flat&logo=tistory&link=https://moveroad.tistory.com/"
+    src="http://img.shields.io/badge/-Velog-655ced?style=flat&logo=Velog&link="https://velog.io/@moveroad"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a> 
  
