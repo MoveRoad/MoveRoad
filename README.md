@@ -12,7 +12,7 @@
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a> 
  
-  <p> 💬 Ask me about oio3215@naver.com </p>
+  <p> 💬 Ask me about oio31250@gmail.com </p>
   
 </div>
 
