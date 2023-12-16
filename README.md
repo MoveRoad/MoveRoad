@@ -9,7 +9,7 @@
 - React.js | Next.js
 - Storybook | Apollo GraphQL
 - Docker | K9s | Node.js | MongoDB
-
+- Monorepo(with Turbo), Micro front-end
 
 ### 🛠 Tech Stacks In Side Projects.
 - TypeScript | Emotion
